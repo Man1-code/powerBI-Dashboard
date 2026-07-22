@@ -90,6 +90,7 @@ Improved business reporting by consolidating multiple metrics into a single dash
 9.Business Insights
 
 (Examples):
+
 Maharashtra generated the highest sales among all states.
 Clothing contributed the largest share of product quantity sold.
 COD was the most preferred payment method.
@@ -99,5 +100,5 @@ A small group of customers contributed significantly to overall profit, highligh
 
 10.Screenshot:
 
-Example: 
+Example: https://github.com/Man1-code/powerBI-Dashboard/blob/main/Ecommerce%20Sales.png
 
