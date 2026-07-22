@@ -100,5 +100,5 @@ A small group of customers contributed significantly to overall profit, highligh
 
 10.Screenshot:
 
-Example: https://github.com/Man1-code/powerBI-Dashboard/blob/main/Ecommerce%20Sales.png
+Example: (https://github.com/Man1-code/powerBI-Dashboard/blob/main/Ecommerce%20Sales.png)
 
