@@ -101,7 +101,9 @@ A small group of customers contributed significantly to overall profit, highligh
 10.Screenshot:
 
 Example:(dashboard will look like!!!)
+
 (https://github.com/Man1-code/powerBI-Dashboard/blob/main/Ecommerce%20Sales.png)
+
 
 <img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/fa3263fe-abc2-4da1-8c7c-c941c0c26f27" />
 
